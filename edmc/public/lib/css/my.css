@@ -1,0 +1,33 @@
+header {
+  height: 10vh;
+}
+.main_page {
+  height: 80vh;
+}
+footer {
+  height: 10vh;
+}
+/* fonts */
+.font_1 {
+  font-size: 13px;
+}
+.font_2 {
+  font-size: 20px;
+}
+.font_3 {
+  font-size: 250px;
+}
+/* colors */
+.color_1 {
+  color: #cd6155;
+}
+.color_2 {
+  color: #5d6d7e;
+}
+.color_3 {
+  color: #f2f4f4;
+}
+/* backgrounds */
+.bg_1 {
+  background-color: #2c3e50;
+}
